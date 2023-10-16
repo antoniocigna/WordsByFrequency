@@ -1,0 +1,148 @@
+_lemma	_traduzione
+abend	sera
+abnutzbarkeit	vestibilità
+allein	solo
+amtlich	ufficiale
+an	un
+anfang	inizio
+animi	anime
+arbeit	lavoro
+aschenbach	aschenbach
+auch	anche
+august	agosto
+aus	spento
+bald	presto
+behutsamkeit	attenzione
+bei	a
+belaubt	frondoso
+beredsamkeit	eloquenza
+bestehen	passare
+bewegung	movimento
+cicero	cicerone
+continuus	continuo
+das	quello
+dass	quello
+daß	quello
+den	uno
+der	il
+des	des
+dumpfig	noioso
+eben	solo
+ein	a
+eindringlichkeit	forza
+eine	uno
+einem	uno
+einen	uno
+einer	uno
+einfallen	verificarsi
+einhalt	contenuto
+einmal	una volta
+englisch	inglese
+entlastenden	esonerativo
+er	lui
+erfordernden	richiedendo
+erspriesslichen	di buon auspicio
+erst	primo
+erster	primo
+es	esso
+falsch	falso
+finden	trova
+fortschwingen	dondolarsi via
+frei	gratuito
+freie	gratuito
+fruehlingsnachmittag	pomeriggio primaverile
+fuenfzigsten	cinquantesimo
+garten	giardino
+geburtstag	compleanno
+gefaehrlichen	pericoloso
+gefahrdrohende	minaccioso
+genauigkeit	precisione
+gustav	gustav
+haben	avere
+herstellen	crea
+hochsommer	mezza estate
+hoechste	più alto
+hoffnung	speranza
+ihm	lui
+ihn	lui
+im	in
+in	in
+innere	interno
+jahr	anno
+jener	quello
+jetzt	ora
+kapitel	capitolo
+kontinent	continente
+kosen	kosen
+kosten	costo
+kraefte	poteri
+lauten	sono
+lemma	lemma
+luft	aria
+mai	maggio
+mein	mio
+miene	aspetto
+mittagsmahlzeit	pranzo
+monatelang	mesi
+motus	moto
+muenchen	monaco di baviera
+nach	dopo
+naehe	vicino
+name	nome
+nasskalten	freddo-umido
+nicht	non
+noetig	necessario
+nur	solo
+obgleich	sebbene
+oder	oppure
+prinz	principe
+produzierend	produzione
+prova	prova
+regentenstrasse	regentenstrasse
+schlummer	sonno
+schriftsteller	scrittore
+schwierig	difficile
+sei	essere
+sein	essere
+seine	il suo
+seit	poiché
+so	così
+spaziergaenger	camminatori
+spaziergang	camminare
+stadt	città
+stehen	stare in piedi
+suchen	cerca
+tee	tè
+tod	morte
+triebwerks	motore
+tun	fare
+ueberreizt	sovrastimolato
+umsicht	prudenza
+und	e
+unser	nostro
+unternehmen	azienda
+untertags	durante il giorno
+venedig	venezia
+verhelfen	aiuto
+vermögen	beni
+voll	pieno
+voller	più pieno
+von	da
+vormittagsstunden	ore del mattino
+wagen	auto, carro, osare
+weit	lontano
+weiter	continua
+weiterer	inoltre
+wesen	essere
+wie	come
+wieder	ancora
+wille	volontà
+willens	disposto
+woche	settimana
+wohnung	appartamento
+worin	dove
+wuerden	sarebbe
+zart	tenero
+zeigen	mostra
+zu	a
+zunehmend	sempre più

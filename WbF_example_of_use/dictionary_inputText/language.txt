@@ -1,0 +1,1 @@
+language=5,de,de-DE,Microsoft Stefan - German (Germany)

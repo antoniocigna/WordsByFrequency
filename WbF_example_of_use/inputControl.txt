@@ -1,0 +1,39 @@
+//------------------------------
+//  example of use  
+//----------------------------------------
+// you need a lemma file, format is word \t lemma   (lemma is the word you look for in the dictionary), if the lemma for a word is missing then is assumed to be equal to the word
+//
+// dictionary words and sentences translation will be used and built if missing 
+// the words and sentences  translation will be built when needed:
+//	 when same words or sentences translation are missing it will be asked to copy them from an automatic traslator (eg. Google)
+//    
+// new translation built a new dictionary file is built, the file name is "dictL" + time for the words and "dictR" + time for the sentences
+//  
+// we can have several of these  files that are read at the beginning of the run
+// every creation of dictionary file, will rewrite a file containing all the dictionary files: "newLemmaTranDict.txt" and "newRowDict.txt"  
+//
+// when you want to clean the folder, you can delete all "dictL...txt" and "dictR...txt" files and then rename the new...txt file in "dictL...txt" and "dictR...txt"    
+//       
+//------------------------
+rewrite_word_lemma_dictionary = true         //  word  lemma        eg. hatte haben
+rewrite_lemma_tran_dictionary = true         //  lemma translation  eg. haben avere  
+rewrite_translated_row_dictionary = true     //  row index; translated row
+//------------------------------------
+
+text_split_ignore_newline  = true     // if true, newLine Character (\n) are ignored and the text is split only by full stop or any of other character as .;:!?       
+text_split_by_newline_only = false    // if true,  text line will be split only by new line, if false, text will be split by new line and by full stop or other character as .;:!? 
+
+//------------------------------------------------
+max_num_lines  = 50             // default=0; it can be missing or can be zero,  after the first run assign a value to it (can be greater, but not smaller than real) 
+max_num_words  = 200            // default=0; it can be missing or can be zero,  after the first run assign a value to it (can be greater, but not smaller than real) 
+max_num_unique = 200            // default=0; it can be missing or can be zero,  after the first run assign a value to it (can be greater, but not smaller than real)
+
+//------------------
+dictionary_folder = dictionary_inputText  
+
+lemma_file = myLemmaFile.txt         
+
+//------------------------------------------------------------------
+
+main_text_file = myInputText.txt
+//-----------
